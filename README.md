@@ -72,11 +72,8 @@ Salon Appointment & Management Platform
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Varun2146&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2146&layout=compact&theme=tokyonight" />
@@ -84,21 +81,7 @@ Salon Appointment & Management Platform
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Varun2146&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Varun2146&theme=tokyonight&row=1&column=7" />
-</p>
-
----
 
 ## 📜 Certifications
 
